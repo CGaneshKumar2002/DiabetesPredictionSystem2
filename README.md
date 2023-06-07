@@ -29,15 +29,14 @@ The Diabetes prediction dataset is a collection of medical and demographic data 
 
 The dataset used in this system contains several input features, including:
 
-Age: The age of the individual.
-Gender: The gender of the individual.
-BMI: The Body Mass Index, a measure of body fat based on height and weight.
-Hypertension: Indicates whether the individual has hypertension (1) or not (0).
-Heart Disease: Indicates whether the individual has a history of heart disease (1) or not (0).
-Smoking History: Indicates the individual's status of smoking.
-HbA1c Level: The level of glycated hemoglobin (HbA1c) in the individual's blood.
-Blood Glucose Level: The blood glucose level in the individual's blood.
-
+- Age: The age of the individual.
+- Gender: The gender of the individual.
+- BMI: The Body Mass Index, a measure of body fat based on height and weight.
+- Hypertension: Indicates whether the individual has hypertension (1) or not (0).
+- Heart Disease: Indicates whether the individual has a history of heart disease (1) or not (0).
+- Smoking History: Indicates the individual's status of smoking.
+- HbA1c Level: The level of glycated hemoglobin (HbA1c) in the individual's blood.
+- Blood Glucose Level: The blood glucose level in the individual's blood.
 
 License: Mohammed Mustafa from Kaggle
 
