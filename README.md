@@ -25,16 +25,22 @@ This project focuses on implementing a Support Vector Machine (SVM) model from s
 
 ## Dataset Overview
 
-The Diabetes Prediction System incorporates the following features for predicting diabetes:
+The Diabetes prediction dataset is a collection of medical and demographic data from patients, along with their diabetes status (positive or negative). This dataset can be used to build machine learning models to predict diabetes in patients based on their medical history and demographic information. This can be useful for healthcare professionals in identifying patients who may be at risk of developing diabetes and in developing personalized treatment plans. Additionally, the dataset can be used by researchers to explore the relationships between various medical and demographic factors and the likelihood of developing diabetes.
 
-Gender: The gender of the individual.
+The dataset used in this system contains several input features, including:
+
 Age: The age of the individual.
-Hypertension: A binary value indicating the presence or absence of hypertension (high blood pressure).
-Heart Disease: A binary value indicating the presence or absence of heart disease.
-Smoking History: 
-BMI: Body Mass Index, a measure of body fat based on height and weight.
-HbA1c Level: The level of HbA1c, which is a measure of average blood glucose levels over a few months.
-Blood Glucose Level: The current blood glucose level of the individual.
+Gender: The gender of the individual.
+BMI: The Body Mass Index, a measure of body fat based on height and weight.
+Hypertension: Indicates whether the individual has hypertension (1) or not (0).
+Heart Disease: Indicates whether the individual has a history of heart disease (1) or not (0).
+Smoking History: Indicates the individual's status of smoking.
+HbA1c Level: The level of glycated hemoglobin (HbA1c) in the individual's blood.
+Blood Glucose Level: The blood glucose level in the individual's blood.
+
+
+License: Mohammed Mustafa from Kaggle
+
 
 ## Key Steps
 
